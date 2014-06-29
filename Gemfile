@@ -49,7 +49,16 @@ group :development, :test do
   gem 'zeus', '~> 0.13.4.pre2'
 end
 
+# For render html
 gem 'slim-rails'
+
+# Show popup
+gem 'fancybox-rails'
+
+# File upload
+gem 'carrierwave'
+gem 'cloudinary'
+
 gem 'rails_12factor', group: :production
 gem 'settingslogic' # not install yet
 gem 'cells'

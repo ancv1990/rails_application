@@ -15,4 +15,5 @@
 //= require jquery.turbolinks
 //= require turbolinks
 //= require bootstrap
+//= require fancybox
 //= require_tree .
