@@ -70,7 +70,7 @@ gem 'omniauth-facebook'
 gem 'activeadmin', github: 'gregbell/active_admin'
 gem 'ransack'
 
-gem 'formtastic'
+gem 'simple_form'
 
 gem 'figaro'
 
