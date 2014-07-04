@@ -12,7 +12,6 @@
  *
  *= require font-awesome
  *= require bootstrap_import
- *= require fancybox
  *= require_tree .
  *= require_self
  */
